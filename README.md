@@ -1,7 +1,7 @@
 # Swift - Missing Docs
 
 As a Swift developer, it can be frustrating to stumble into an area of the language, the standard
-library, or the core frameworks that less than completely documented. Swift is a moving target,
+library, or the common frameworks that's less than completely documented. Swift is a moving target,
 which aims to support many operating systems and platforms, and continues to contain warts from
 previous history. Despite these challenges, the language and ecosystem continue to make progress as
 long as we identify shortcomings and make an effort to address them.
